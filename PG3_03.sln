@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PG3_03", "PG3_03.vcxproj", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3-2.静的メンバ変数", "..\3-2.静的メンバ変数\3-2.静的メンバ変数.vcxproj", "{BBDDDAE5-3FAE-4EAD-8C66-CC4E03EF8B1D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3-3メンバ関数ポインタ", "..\3-3メンバ関数ポインタ\3-3メンバ関数ポインタ.vcxproj", "{2B9BC409-BBAA-403D-BFD6-0A03A2A05F47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{BBDDDAE5-3FAE-4EAD-8C66-CC4E03EF8B1D}.Release|x64.Build.0 = Release|x64
 		{BBDDDAE5-3FAE-4EAD-8C66-CC4E03EF8B1D}.Release|x86.ActiveCfg = Release|Win32
 		{BBDDDAE5-3FAE-4EAD-8C66-CC4E03EF8B1D}.Release|x86.Build.0 = Release|Win32
+		{2B9BC409-BBAA-403D-BFD6-0A03A2A05F47}.Debug|x64.ActiveCfg = Debug|x64
+		{2B9BC409-BBAA-403D-BFD6-0A03A2A05F47}.Debug|x64.Build.0 = Debug|x64
+		{2B9BC409-BBAA-403D-BFD6-0A03A2A05F47}.Debug|x86.ActiveCfg = Debug|Win32
+		{2B9BC409-BBAA-403D-BFD6-0A03A2A05F47}.Debug|x86.Build.0 = Debug|Win32
+		{2B9BC409-BBAA-403D-BFD6-0A03A2A05F47}.Release|x64.ActiveCfg = Release|x64
+		{2B9BC409-BBAA-403D-BFD6-0A03A2A05F47}.Release|x64.Build.0 = Release|x64
+		{2B9BC409-BBAA-403D-BFD6-0A03A2A05F47}.Release|x86.ActiveCfg = Release|Win32
+		{2B9BC409-BBAA-403D-BFD6-0A03A2A05F47}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
