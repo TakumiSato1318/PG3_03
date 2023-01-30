@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PG3_03", "PG3_03.vcxproj", "{ED3DCCA4-17C8-442C-A9E2-2D2B79C78DE6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3-2.静的メンバ変数", "..\3-2.静的メンバ変数\3-2.静的メンバ変数.vcxproj", "{BBDDDAE5-3FAE-4EAD-8C66-CC4E03EF8B1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{ED3DCCA4-17C8-442C-A9E2-2D2B79C78DE6}.Release|x64.Build.0 = Release|x64
 		{ED3DCCA4-17C8-442C-A9E2-2D2B79C78DE6}.Release|x86.ActiveCfg = Release|Win32
 		{ED3DCCA4-17C8-442C-A9E2-2D2B79C78DE6}.Release|x86.Build.0 = Release|Win32
+		{BBDDDAE5-3FAE-4EAD-8C66-CC4E03EF8B1D}.Debug|x64.ActiveCfg = Debug|x64
+		{BBDDDAE5-3FAE-4EAD-8C66-CC4E03EF8B1D}.Debug|x64.Build.0 = Debug|x64
+		{BBDDDAE5-3FAE-4EAD-8C66-CC4E03EF8B1D}.Debug|x86.ActiveCfg = Debug|Win32
+		{BBDDDAE5-3FAE-4EAD-8C66-CC4E03EF8B1D}.Debug|x86.Build.0 = Debug|Win32
+		{BBDDDAE5-3FAE-4EAD-8C66-CC4E03EF8B1D}.Release|x64.ActiveCfg = Release|x64
+		{BBDDDAE5-3FAE-4EAD-8C66-CC4E03EF8B1D}.Release|x64.Build.0 = Release|x64
+		{BBDDDAE5-3FAE-4EAD-8C66-CC4E03EF8B1D}.Release|x86.ActiveCfg = Release|Win32
+		{BBDDDAE5-3FAE-4EAD-8C66-CC4E03EF8B1D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
